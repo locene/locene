@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Some of my work:
+
+- [torch](https://github.com/locene/torch): A web-based TROW reader optimized for display on E-Ink devices, such as Kindle, Kobo, and others.
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=locene&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=locene&theme=transparent&hide_border=true" /> |
+| ------------- | ------------- |
