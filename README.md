@@ -1,6 +1,6 @@
 <br />
 
-[me](https://locene.com) · [projects](https://locene.com/projects) · [contact](https://locene.com/contact)
+<samp>[me](https://locene.com) · [projects](https://locene.com/projects) · [contact](https://locene.com/contact)</samp>
 
 <br />
 
