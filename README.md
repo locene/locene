@@ -1,4 +1,4 @@
-<samp>[me](https://locene.com) · [work](https://locene.com/#work) · [contact](https://locene.com/#contact)</samp>
+<samp>[me](https://locene.com) · [work](https://locene.com/#work) · [about](https://locene.com/#about) · [contact](https://locene.com/#contact)</samp>
 
 <br />
 
